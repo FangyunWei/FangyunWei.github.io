@@ -1,0 +1,347 @@
+[
+  {
+    "year": 2026,
+    "title": "Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models",
+    "venue": "ECCV"
+  },
+  {
+    "year": 2026,
+    "title": "Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models",
+    "venue": "arXiv"
+  },
+  {
+    "year": 2026,
+    "title": "InsightTok: Improving Text and Face Fidelity in Discrete Tokenization for Autoregressive Image Generation",
+    "venue": "ECCVW"
+  },
+  {
+    "year": 2026,
+    "title": "MobileManiBench: Simplifying Model Verification for Mobile Manipulation",
+    "venue": "ECCV"
+  },
+  {
+    "year": 2026,
+    "title": "CustomX: Unified Character, Action, and Scene Customization in Video World Models",
+    "venue": "ECCV"
+  },
+  {
+    "year": 2026,
+    "title": "Spatia: Video Generation with Updatable Spatial Memory",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2025,
+    "title": "From Virtual Games to Real-World Play",
+    "venue": "arXiv"
+  },
+  {
+    "year": 2025,
+    "title": "Fast Autoregressive Models for Continuous Latent Generation",
+    "venue": "arXiv"
+  },
+  {
+    "year": 2025,
+    "title": "Modeling Multi-Modal Cross-Interaction for Multi-Label Few-Shot Image Classification Based on Local Feature Selection",
+    "venue": "TOMM"
+  },
+  {
+    "year": 2025,
+    "title": "Low-Shot Video Object Segmentation",
+    "venue": "TPAMI"
+  },
+  {
+    "year": 2025,
+    "title": "EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test",
+    "venue": "NeurIPS"
+  },
+  {
+    "year": 2025,
+    "title": "VideoVLA: Video Generators Can Be Generalizable Robot Manipulators",
+    "venue": "NeurIPS"
+  },
+  {
+    "year": 2025,
+    "title": "Improved Noise Schedule for Diffusion Training",
+    "venue": "ICCV"
+  },
+  {
+    "year": 2025,
+    "title": "Minimizing Labeled, Maximizing Unlabeled: An Image-Driven Approach for Video Instance Segmentation",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2025,
+    "title": "UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2025,
+    "title": "Revisiting Referring Expression Comprehension Evaluation in the Era of Large Multimodal Models",
+    "venue": "CVPRW"
+  },
+  {
+    "year": 2024,
+    "title": "A Large-Scale Human-Centric Benchmark for Referring Expression Comprehension in the LMM Era",
+    "venue": "NeurIPS"
+  },
+  {
+    "year": 2024,
+    "title": "CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation",
+    "venue": "arXiv"
+  },
+  {
+    "year": 2024,
+    "title": "LoRASC: Expressive and Generalizable Low-rank Adaptation for Large Models via Slow Cascaded Learning",
+    "venue": "EMNLP"
+  },
+  {
+    "year": 2024,
+    "title": "Towards Online Continuous Sign Language Recognition and Translation",
+    "venue": "EMNLP"
+  },
+  {
+    "year": 2024,
+    "title": "EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees",
+    "venue": "EMNLP"
+  },
+  {
+    "year": 2024,
+    "title": "Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%",
+    "venue": "NeurIPS"
+  },
+  {
+    "year": 2024,
+    "title": "A Hong Kong Sign Language Corpus Collected from Sign-interpreted TV News",
+    "venue": "LREC-COLING"
+  },
+  {
+    "year": 2024,
+    "title": "Rethinking Generative Large Language Model Evaluation for Semantic Comprehension",
+    "venue": "ICML"
+  },
+  {
+    "year": 2024,
+    "title": "Beyond Text: Frozen Large Language Models in Visual Signal Comprehension",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2024,
+    "title": "AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls",
+    "venue": "ICML"
+  },
+  {
+    "year": 2024,
+    "title": "EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty",
+    "venue": "ICML"
+  },
+  {
+    "year": 2024,
+    "title": "A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars",
+    "venue": "ECCV"
+  },
+  {
+    "year": 2024,
+    "title": "Hybrid Proposal Refiner: Revisiting DETR Series from the Faster R-CNN Perspective",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2024,
+    "title": "RAIN: Your Language Models Can Align Themselves without Finetuning",
+    "venue": "ICLR"
+  },
+  {
+    "year": 2023,
+    "title": "Exploring Non-additive Randomness on ViT against Query-Based Black-Box Attacks",
+    "venue": "BMVC"
+  },
+  {
+    "year": 2023,
+    "title": "AniPortraitGAN: Animatable 3D Portrait Generation from 2D Image Collections",
+    "venue": "SIGGRAPH Asia"
+  },
+  {
+    "year": 2023,
+    "title": "Improving Continuous Sign Language Recognition with Cross-Lingual Signs",
+    "venue": "ICCV"
+  },
+  {
+    "year": 2023,
+    "title": "CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2023,
+    "title": "Two-shot Video Object Segmentation",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2023,
+    "title": "Natural Language-Assisted Sign Language Recognition",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2023,
+    "title": "DeepMIM: Deep Supervision for Masked Image Modeling",
+    "venue": "WACV"
+  },
+  {
+    "year": 2023,
+    "title": "Side Adapter Network for Open-Vocabulary Semantic Segmentation",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2023,
+    "title": "ADPL: Adaptive Dual Path Learning for Domain Adaptation of Semantic Segmentation",
+    "venue": "TPAMI"
+  },
+  {
+    "year": 2023,
+    "title": "TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2023,
+    "title": "Iterative Proposal Refinement for Weakly-Supervised Video Grounding",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2022,
+    "title": "Attentive Mask CLIP",
+    "venue": "ICCV"
+  },
+  {
+    "year": 2022,
+    "title": "Two-Stream Network for Sign Language Recognition and Translation",
+    "venue": "NeurIPS"
+  },
+  {
+    "year": 2022,
+    "title": "A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-Language Model",
+    "venue": "ECCV"
+  },
+  {
+    "year": 2022,
+    "title": "AniFaceGAN: Animatable 3D-Aware Face Image Generation for Video Avatars",
+    "venue": "NeurIPS"
+  },
+  {
+    "year": 2022,
+    "title": "Conditional DETR V2: Efficient Detection Transformer with Box Queries",
+    "venue": "arXiv"
+  },
+  {
+    "year": 2022,
+    "title": "Boosting Zero-shot Learning via Contrastive Optimization of Attribute Representations",
+    "venue": "TNNLS"
+  },
+  {
+    "year": 2022,
+    "title": "Unsupervised Prompt Learning for Vision-Language Models",
+    "venue": "arXiv"
+  },
+  {
+    "year": 2022,
+    "title": "Frame-wise Action Representations for Long Videos via Sequence Contrastive Learning",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2022,
+    "title": "Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2022,
+    "title": "A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2022,
+    "title": "Cross-Model Pseudo-Labeling for Semi-Supervised Action Recognition",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2021,
+    "title": "Towards Tokenized Human Dynamics Representation",
+    "venue": "arXiv"
+  },
+  {
+    "year": 2021,
+    "title": "Bootstrap Your Object Detector via Mixed Training",
+    "venue": "NeurIPS"
+  },
+  {
+    "year": 2021,
+    "title": "Semi-Supervised Semantic Segmentation via Adaptive Equalization Learning",
+    "venue": "NeurIPS"
+  },
+  {
+    "year": 2021,
+    "title": "ADNet: Leveraging Error-Bias Towards Normal Direction in Face Alignment",
+    "venue": "ICCV"
+  },
+  {
+    "year": 2021,
+    "title": "Dual Path Learning for Domain Adaptation of Semantic Segmentation",
+    "venue": "ICCV"
+  },
+  {
+    "year": 2021,
+    "title": "End-to-End Semi-Supervised Object Detection with Soft Teacher",
+    "venue": "ICCV"
+  },
+  {
+    "year": 2021,
+    "title": "Aligning Pretraining for Detection via Object-Level Contrastive Learning",
+    "venue": "NeurIPS"
+  },
+  {
+    "year": 2021,
+    "title": "High-Fidelity and Arbitrary Face Editing",
+    "venue": "CVPR"
+  },
+  {
+    "year": 2020,
+    "title": "Global Context Networks",
+    "venue": "TPAMI"
+  },
+  {
+    "year": 2020,
+    "title": "Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation",
+    "venue": "ECCV"
+  },
+  {
+    "year": 2020,
+    "title": "RelationNet++: Bridging Visual Representations for Object Detection via Transformer Decoder",
+    "venue": "NeurIPS"
+  },
+  {
+    "year": 2020,
+    "title": "Restoring Negative Information in Few-Shot Object Detection",
+    "venue": "NeurIPS"
+  },
+  {
+    "year": 2020,
+    "title": "Group Sampling for Scale Invariant Face Detection",
+    "venue": "TPAMI"
+  },
+  {
+    "year": 2020,
+    "title": "Design and Interpretation of Universal Adversarial Patches in Face Detection",
+    "venue": "ECCV"
+  },
+  {
+    "year": 2019,
+    "title": "WIDER FACE and Pedestrian Challenge 2018: Methods and Results",
+    "venue": "arXiv"
+  },
+  {
+    "year": 2019,
+    "title": "GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond",
+    "venue": "ICCVW"
+  },
+  {
+    "year": 2019,
+    "title": "Group Sampling for Scale Invariant Face Detection",
+    "venue": "CVPR"
+  }
+]
